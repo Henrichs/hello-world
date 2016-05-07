@@ -1,5 +1,5 @@
 # hello-world
 
-  The Henrichs says,
+  Henrichs claims,
   
   This is the first repository of many.
